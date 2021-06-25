@@ -1,7 +1,7 @@
 
 # Memory bank
 
-Social media app which enbales users to dive deep in their memories. A full stack application built using React, Node.js, Express & MongoDB
+Social media app which enables users to dive deep in their memories. A full stack application built using React, Node.js, Express & MongoDB
 
 
 ## Features
